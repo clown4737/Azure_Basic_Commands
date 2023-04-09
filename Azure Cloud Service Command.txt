@@ -1,0 +1,29 @@
+Azure Cloud Service Command
+
+//Connect to Azure cloud Service
+
+
+
+//Logon Azure cloud Service
+Connect -azacount
+
+
+
+
+
+//Virtual Machine Create
+
+//VNET Create
+@Param = VNET
+
+
+//SNET Create
+
+
+//Setting 
+
+
+
+//Log monitoring//
+
+////
